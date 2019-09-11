@@ -1,0 +1,8 @@
+include<cs5o>
+include<stdio.h>
+
+int main[void]
+{
+string f =get_string["what's your name"]
+printf["hello,%s \n ,f]
+}
